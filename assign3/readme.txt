@@ -1,1 +1,1 @@
-something
+Modify the "grades2.c" program so that the user initially enters the number of grades and then enters the grades.  The program will output the average of the grades, the standard deviation of the grades, and the median of the grades. Use functions, pointers, and references.
